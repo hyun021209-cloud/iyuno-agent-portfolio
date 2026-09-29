@@ -1,0 +1,122 @@
+[
+  {
+    "title": "OWASP Top 10:2021",
+    "org": "OWASP",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP Top 10:2021 Documentation",
+    "org": "OWASP",
+    "url": "https://top10.owasp.org/2021/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP API Security Top 10",
+    "org": "OWASP",
+    "url": "https://owasp.org/API-Security/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP Application Security Verification Standard",
+    "org": "OWASP",
+    "url": "https://owasp.org/www-project-application-security-verification-standard/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP Cheat Sheet Series",
+    "org": "OWASP",
+    "url": "https://cheatsheetseries.owasp.org/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP Secure Coding Practices",
+    "org": "OWASP",
+    "url": "https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP Threat Modeling",
+    "org": "OWASP",
+    "url": "https://owasp.org/www-community/Threat_Modeling",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "OWASP Software Assurance Maturity Model",
+    "org": "OWASP",
+    "url": "https://owaspsamm.org/",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST Cybersecurity Framework 2.0",
+    "org": "NIST",
+    "url": "https://www.nist.gov/cyberframework",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST CSF 2.0 Publication",
+    "org": "NIST",
+    "url": "https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-61 Rev. 3",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/pubs/sp/800/61/r3/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-53 Rev. 5",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-53A Rev. 5",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/publications/detail/sp/800-53a/rev-5/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-53B",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-92 Log Management",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/publications/detail/sp/800-92/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-216 Vulnerability Disclosure",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/pubs/sp/800/216/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-128 Configuration Management",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/pubs/sp/800/128/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST SP 800-137 Information Security Continuous Monitoring",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/pubs/sp/800/137/final",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST Risk Management Framework",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/projects/risk-management",
+    "collected_at": "2026-09-29"
+  },
+  {
+    "title": "NIST Incident Response Project",
+    "org": "NIST",
+    "url": "https://csrc.nist.gov/projects/incident-response/publications",
+    "collected_at": "2026-09-29"
+  }
+]

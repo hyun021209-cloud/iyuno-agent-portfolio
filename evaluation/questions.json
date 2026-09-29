@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the NIST Cybersecurity Framework?"
+  },
+  {
+    "question": "What is incident response in NIST guidance?"
+  },
+  {
+    "question": "What are the OWASP Top 10?"
+  },
+  {
+    "question": "What is broken access control?"
+  },
+  {
+    "question": "What is injection in web application security?"
+  },
+  {
+    "question": "What is security misconfiguration?"
+  },
+  {
+    "question": "What is vulnerability disclosure?"
+  },
+  {
+    "question": "What is log management?"
+  },
+  {
+    "question": "What is continuous monitoring?"
+  },
+  {
+    "question": "What is risk management?"
+  }
+]
